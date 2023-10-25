@@ -1,0 +1,15 @@
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\bin\Debug\net6.0\FirstDotnetProject.exe
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\bin\Debug\net6.0\FirstDotnetProject.deps.json
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\bin\Debug\net6.0\FirstDotnetProject.runtimeconfig.json
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\bin\Debug\net6.0\FirstDotnetProject.dll
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\bin\Debug\net6.0\FirstDotnetProject.pdb
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\obj\Debug\net6.0\FirstDotnetProject.csproj.AssemblyReference.cache
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\obj\Debug\net6.0\FirstDotnetProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\obj\Debug\net6.0\FirstDotnetProject.AssemblyInfoInputs.cache
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\obj\Debug\net6.0\FirstDotnetProject.AssemblyInfo.cs
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\obj\Debug\net6.0\FirstDotnetProject.csproj.CoreCompileInputs.cache
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\obj\Debug\net6.0\FirstDotnetProject.dll
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\obj\Debug\net6.0\refint\FirstDotnetProject.dll
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\obj\Debug\net6.0\FirstDotnetProject.pdb
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\obj\Debug\net6.0\FirstDotnetProject.genruntimeconfig.cache
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day1\FirstDotnetProject\obj\Debug\net6.0\ref\FirstDotnetProject.dll

@@ -1,0 +1,15 @@
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\bin\Debug\net6.0\classLecture.exe
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\bin\Debug\net6.0\classLecture.deps.json
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\bin\Debug\net6.0\classLecture.runtimeconfig.json
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\bin\Debug\net6.0\classLecture.dll
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\bin\Debug\net6.0\classLecture.pdb
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\obj\Debug\net6.0\classLecture.csproj.AssemblyReference.cache
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\obj\Debug\net6.0\classLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\obj\Debug\net6.0\classLecture.AssemblyInfoInputs.cache
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\obj\Debug\net6.0\classLecture.AssemblyInfo.cs
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\obj\Debug\net6.0\classLecture.csproj.CoreCompileInputs.cache
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\obj\Debug\net6.0\classLecture.dll
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\obj\Debug\net6.0\refint\classLecture.dll
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\obj\Debug\net6.0\classLecture.pdb
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\obj\Debug\net6.0\classLecture.genruntimeconfig.cache
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week1Day2\classLecture\obj\Debug\net6.0\ref\classLecture.dll

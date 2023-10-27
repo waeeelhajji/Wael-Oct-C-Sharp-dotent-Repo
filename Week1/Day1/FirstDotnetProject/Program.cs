@@ -8,9 +8,14 @@ Console.WriteLine("Hello and Welcome to the C# .Net Stack");
 // name = "hello"
 
 
-
+// These languages tend to look a lot more verbose but it's for a reason!
 // C#
 string FirstVariable = "Welcome to C#";
+// I needed the word string
+// We have to declare data types at the start of EVERY variable
+// Languages like JS and Python do not care for data type at the moment of creation - this means the memory used to store that data is arbitrary 
+// In C# since we declare the data type from the beginning we take EXACTLY how much space we need for the variable
+// Less memory used means smaller file sizes which means things load and download quicker
 
 Console.WriteLine(FirstVariable);
 
@@ -29,4 +34,5 @@ static string Hello()
 {
     return "Hello";
 }
+
 

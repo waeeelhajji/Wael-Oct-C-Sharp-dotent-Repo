@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week1Day1\\FirstDotnetProject\\FirstDotnetProject.csproj",
-      "projectName": "FirstDotnetProject",
-      "projectPath": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week1Day1\\FirstDotnetProject\\FirstDotnetProject.csproj",
+      "projectUniqueName": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week1Day2\\classLecture\\classLecture.csproj",
+      "projectName": "classLecture",
+      "projectPath": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week1Day2\\classLecture\\classLecture.csproj",
       "packagesPath": "C:\\Users\\waelh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week1Day1\\FirstDotnetProject\\obj\\",
+      "outputPath": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week1Day2\\classLecture\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
       }
     }
   }

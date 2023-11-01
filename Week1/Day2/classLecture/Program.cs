@@ -34,3 +34,17 @@ Console.WriteLine(Horse.Weight);
 Dog.makeNoise("Miaou");
 Cat.makeNoise("Bark");
 
+
+Mammal lion = new Mammal("Lion", 120.0, "brown", false);
+
+Console.WriteLine(lion.Species);
+Console.WriteLine(lion.hasFur);
+
+lion.makeNoise("Roar");
+
+Aquatic fishyWishy = new Aquatic(" Gold fish", 0.2, "gold", true, 6);
+
+Console.WriteLine(fishyWishy.Species);
+Console.WriteLine(fishyWishy.numFins);
+
+fishyWishy.makeNoise();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week1\\Day2\\classLecture\\classLecture.csproj": {}
+    "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week2\\ourFirstWebApp\\ourFirstWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week1\\Day2\\classLecture\\classLecture.csproj": {
+    "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week2\\ourFirstWebApp\\ourFirstWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week1\\Day2\\classLecture\\classLecture.csproj",
-        "projectName": "classLecture",
-        "projectPath": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week1\\Day2\\classLecture\\classLecture.csproj",
+        "projectUniqueName": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week2\\ourFirstWebApp\\ourFirstWebApp.csproj",
+        "projectName": "ourFirstWebApp",
+        "projectPath": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week2\\ourFirstWebApp\\ourFirstWebApp.csproj",
         "packagesPath": "C:\\Users\\waelh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week1\\Day2\\classLecture\\obj\\",
+        "outputPath": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week2\\ourFirstWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -52,6 +52,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

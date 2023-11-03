@@ -19,3 +19,5 @@ C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week2\ourFirstWebApp\obj\Deb
 C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week2\ourFirstWebApp\obj\Debug\net6.0\ourFirstWebApp.pdb
 C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week2\ourFirstWebApp\obj\Debug\net6.0\ourFirstWebApp.genruntimeconfig.cache
 C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week2\ourFirstWebApp\obj\Debug\net6.0\ref\ourFirstWebApp.dll
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week2\ourFirstWebApp\obj\Debug\net6.0\ourFirstWebApp.RazorAssemblyInfo.cache
+C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week2\ourFirstWebApp\obj\Debug\net6.0\ourFirstWebApp.RazorAssemblyInfo.cs

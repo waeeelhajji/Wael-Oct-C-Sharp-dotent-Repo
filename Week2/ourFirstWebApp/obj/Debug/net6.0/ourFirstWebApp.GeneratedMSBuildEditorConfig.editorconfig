@@ -14,3 +14,15 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week2\ourFirstWebApp
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/waelh/Desktop/Wael-Oct-C-Sharp-dotent-Repo/Week2/ourFirstWebApp/Views/Hello/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/waelh/Desktop/Wael-Oct-C-Sharp-dotent-Repo/Week2/ourFirstWebApp/Views/Hello/Second.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9cU2Vjb25kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/waelh/Desktop/Wael-Oct-C-Sharp-dotent-Repo/Week2/ourFirstWebApp/Views/Hello/Third.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9cVGhpcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

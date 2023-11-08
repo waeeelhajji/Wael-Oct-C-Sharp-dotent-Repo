@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "w712EDIoZ0qja5jQlMRFz7uKarx3rfwOaPOhDb0WBeo=",
+  "Source": "formsProject",
+  "BasePath": "_content/formsProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "formsProject\\wwwroot",
+      "Source": "formsProject",
+      "ContentRoot": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week3\\Day1\\formsProject\\wwwroot\\",
+      "BasePath": "_content/formsProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week3\\Day1\\formsProject\\wwwroot\\images\\puppy.png",
+      "SourceId": "formsProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week3\\Day1\\formsProject\\wwwroot\\",
+      "BasePath": "_content/formsProject",
+      "RelativePath": "images/puppy.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\puppy.png"
+    }
+  ]
+}

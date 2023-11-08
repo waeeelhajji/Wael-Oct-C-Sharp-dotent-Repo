@@ -1,0 +1,24 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = formsProject
+build_property.RootNamespace = formsProject
+build_property.ProjectDir = C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week3\Day1\formsProject\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\waelh\Desktop\Wael-Oct-C-Sharp-dotent-Repo\Week3\Day1\formsProject
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/waelh/Desktop/Wael-Oct-C-Sharp-dotent-Repo/Week3/Day1/formsProject/Views/Hello/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/waelh/Desktop/Wael-Oct-C-Sharp-dotent-Repo/Week3/Day1/formsProject/Views/Hello/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9cU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

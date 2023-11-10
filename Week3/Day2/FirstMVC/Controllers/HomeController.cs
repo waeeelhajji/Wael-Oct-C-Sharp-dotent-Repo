@@ -17,6 +17,34 @@ public class HomeController : Controller
     {
         return View();
     }
+    [HttpPost("process")]
+    public IActionResult process(User newUser)
+    {
+        // Console.WriteLine($"Name:  {Name}");
+        // Console.WriteLine($"FavColor:  {FavColor}");
+        // Console.WriteLine($"FavNumber:  {FavNumber}");
+        // ViewBag.Name = Name;
+        // ViewBag.FavColor = FavColor;
+        // ViewBag.FavNumber = FavNumber;
+
+        if (ModelState.IsValid)
+        {
+            // this means we passed our validation
+            // then would you redirect to success
+            return RedirectToAction("Success");
+        }
+        else
+        {
+            // ViewBag.User = newUser;
+            return View("Index");
+        }
+    }
+
+    [HttpGet("Success")]
+    public IActionResult Success(User newUser)
+    {
+        return View(newUser);
+    }
 
     public IActionResult Privacy()
     {

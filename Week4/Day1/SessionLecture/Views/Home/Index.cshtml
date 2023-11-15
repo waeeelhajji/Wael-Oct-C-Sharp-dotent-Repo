@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome, @Context.Session.GetString("User") </h1>
+
+    <h2>Most recent Name enter to our web Site : @Context.Session.GetString("NewUser")</h2>
+    <h3>The recent Number : @Context.Session.GetInt32("Num")</h3>
+    <form action="SetName" method="post">
+        <label for="Name">Name :</label>
+        <input type="string" name="Name" id="Name" class="form-control">
+        <label for="Number"> the Number is :</label>
+        <input type="number" name="Number" id="Number" class="form-control">
+        <input type="submit" value="Submit" class="btn btn-primary">
+        <a href="/delete" type="submit" class="btn btn-danger">Clear Session</a>
+
+    </form>
+
+</div>

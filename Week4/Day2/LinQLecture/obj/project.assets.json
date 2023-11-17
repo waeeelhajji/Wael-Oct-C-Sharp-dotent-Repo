@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week4\\Day1\\SessionLecture\\SessionLecture.csproj",
-      "projectName": "SessionLecture",
-      "projectPath": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week4\\Day1\\SessionLecture\\SessionLecture.csproj",
+      "projectUniqueName": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week4\\Day2\\LinQLecture\\LinQLecture.csproj",
+      "projectName": "LinQLecture",
+      "projectPath": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week4\\Day2\\LinQLecture\\LinQLecture.csproj",
       "packagesPath": "C:\\Users\\waelh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week4\\Day1\\SessionLecture\\obj\\",
+      "outputPath": "C:\\Users\\waelh\\Desktop\\Wael-Oct-C-Sharp-dotent-Repo\\Week4\\Day2\\LinQLecture\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

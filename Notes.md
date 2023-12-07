@@ -1,5 +1,3 @@
-Certainly! Below is the README-style explanation translated into a Markdown README format:
-
 ```markdown
 # FirstOrDefault vs. SingleOrDefault in ASP.NET MVC (.NET 6)
 
